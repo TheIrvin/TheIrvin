@@ -20,11 +20,11 @@ I build practical desktop applications, local APIs, and automation tools. My mai
 
 ### In review
 
-- [go-collections #269](https://github.com/pickeringtech/go-collections/pull/269) — wrote a usage guide for Go preprocessing tools and linked it from the package indexes. Local package tests pass; CI and maintainer review are pending.
-- [semantic-policy #115](https://github.com/semanticpolicy/semantic-policy/pull/115) — added CLI validation and regression tests for empty input paths in a .NET evaluation tool. Local build and tests passed; CI and maintainer review are pending.
-- [groq-pr-reviewer-net #8](https://github.com/danhpaiva/groq-pr-reviewer-net/pull/8) — added `--lang` support for six review languages with localized headings and fallback tests; all 11 local tests pass.
+- [go-collections #269](https://github.com/pickeringtech/go-collections/pull/269) — wrote a usage guide for Go preprocessing tools and linked it from the package indexes. Local package tests pass; CI is waiting for maintainer approval of the workflow run, and review is pending.
+- [semantic-policy #115](https://github.com/semanticpolicy/semantic-policy/pull/115) — added CLI validation and regression tests for empty input paths in a .NET evaluation tool. Local build and tests pass; CI is waiting for maintainer approval of the workflow run, and review is pending.
+- [groq-pr-reviewer-net #8](https://github.com/danhpaiva/groq-pr-reviewer-net/pull/8) — added `--lang` support for six review languages with localized headings and fallback tests; all 11 local tests pass. No CI checks or maintainer review have been reported.
 - [compose-hardware-insets #27](https://github.com/damson/compose-hardware-insets/pull/27) — added tested Kotlin/Compose alignments for horizontal screen edges; CI passes and maintainer review is pending.
 
-- [ledger-core #32](https://github.com/softvasco/ledger-core/pull/32) — added architecture tests for Domain dependencies and Application boundaries. Build passes cleanly; Domain and Application suites pass (96 tests total); CI and maintainer review are pending.
+- [ledger-core #32](https://github.com/softvasco/ledger-core/pull/32) — added architecture tests for Domain dependencies and Application boundaries. Build passes cleanly; Domain and Application suites pass (96 tests total); CI and CodeQL are waiting for maintainer approval of their workflow runs, and review is pending.
 
 I value focused changes, tests that capture the behavior, and clear notes about what has and has not been verified.
