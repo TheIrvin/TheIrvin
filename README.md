@@ -15,4 +15,8 @@ I build practical desktop applications, local APIs, and automation tools. My mai
 - [uniOS #25](https://github.com/unionyxx/uniOS/pull/25) — added visible status feedback before the network settings app starts DHCP renewal. **Merged.**
 - [CodePrism #68](https://github.com/knight22-21/CodePrism/pull/68) — rejected option-like Git diff ranges and added CLI regression tests. **Merged.**
 
+### In review
+
+- [go-collections #269](https://github.com/pickeringtech/go-collections/pull/269) — wrote a usage guide for Go preprocessing tools and linked it from the package indexes. Local package tests pass; CI and maintainer review are pending.
+
 I value focused changes, tests that capture the behavior, and clear notes about what has and has not been verified.
