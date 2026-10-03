@@ -1,6 +1,6 @@
 # Software developer building practical tools
 
-I build practical desktop applications, local APIs, and automation tools. My main project work is in **C#/.NET, Python, and TypeScript/React**; I also contribute fixes to established open-source projects.
+I build practical desktop applications, local APIs, and automation tools. My main project work is in **C#/.NET, Python, and TypeScript with React and Angular**; I also contribute fixes to established open-source projects.
 
 ## Selected projects
 
@@ -9,6 +9,7 @@ I build practical desktop applications, local APIs, and automation tools. My mai
 - [Subtitle Editor](https://github.com/TheIrvin/Subtitulador-de-videos-en-Espanol-e-Ingles-9-16) — **Python, FastAPI, Electron, React, Vite**; a desktop workflow for transcribing, editing, and exporting bilingual vertical videos.
 - [Pipeline Workflows](https://github.com/TheIrvin/PipeLine_Workflows) — **Python, Docker, n8n, SQLite**; a self-hosted content workflow with a local approval dashboard.
 - [FileToMarkdown](https://github.com/TheIrvin/FileToMarkdown) — **C#, ASP.NET Core, Python, SQLite**; a local app that converts PDF, Word, PowerPoint, Excel, HTML, and CSV files into previewable, downloadable Markdown and keeps local conversion history.
+- [Angular REST Product Catalog](https://github.com/TheIrvin/Web_Services_REST) — **Angular 22, TypeScript, Vitest, JSON Server**; a local CRUD app with a documented API setup, a real UI screenshot, and six HTTP service tests.
 
 ## Open-source contributions
 
