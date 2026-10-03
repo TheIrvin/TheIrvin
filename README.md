@@ -13,7 +13,7 @@ I build practical desktop applications, local APIs, and automation tools. My mai
 
 ## Open-source contributions
 
-- [Cartograph #25](https://github.com/pacman-cli/Cartograph/pull/25) — added Javadocs to public API classes; the Java 17 build/tests and zero-warning Javadoc checks passed. **Merged.**
+- [Cartograph #25](https://github.com/pacman-cli/Cartograph/pull/25) and [#49](https://github.com/pacman-cli/Cartograph/pull/49) — documented public API and remaining public types, and clarified behavior descriptions; Java 17 tests and zero-warning Javadoc checks passed. **Both merged.**
 - [uniOS #25](https://github.com/unionyxx/uniOS/pull/25) — added visible status feedback before the network settings app starts DHCP renewal. **Merged.**
 - [CodePrism #68](https://github.com/knight22-21/CodePrism/pull/68) — rejected option-like Git diff ranges and added CLI regression tests. **Merged.**
 - [CodePrism #71](https://github.com/knight22-21/CodePrism/pull/71) — reject unknown `--languages` values instead of silently indexing with a broader language set; added regression coverage. **Merged.**
