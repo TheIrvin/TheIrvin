@@ -15,6 +15,8 @@ I build practical desktop applications, local APIs, and automation tools. My mai
 
 - [uniOS #25](https://github.com/unionyxx/uniOS/pull/25) — added visible status feedback before the network settings app starts DHCP renewal. **Merged.**
 - [CodePrism #68](https://github.com/knight22-21/CodePrism/pull/68) — rejected option-like Git diff ranges and added CLI regression tests. **Merged.**
+- [CodePrism #71](https://github.com/knight22-21/CodePrism/pull/71) — reject unknown `--languages` values instead of silently indexing with a broader language set; added regression coverage. **Merged.**
+- [LOKI #11](https://github.com/Elabsurdo984/loki-agent/pull/11) — discard a failed user turn when every provider attempt fails, with a regression test. **Merged.**
 
 ### In review
 
