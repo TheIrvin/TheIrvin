@@ -19,5 +19,6 @@ I build practical desktop applications, local APIs, and automation tools. My mai
 
 - [go-collections #269](https://github.com/pickeringtech/go-collections/pull/269) — wrote a usage guide for Go preprocessing tools and linked it from the package indexes. Local package tests pass; CI and maintainer review are pending.
 - [semantic-policy #115](https://github.com/semanticpolicy/semantic-policy/pull/115) — added CLI validation and regression tests for empty input paths in a .NET evaluation tool. Local build and tests passed; CI and maintainer review are pending.
+- [compose-hardware-insets #27](https://github.com/damson/compose-hardware-insets/pull/27) — added tested Kotlin/Compose alignments for horizontal screen edges; CI passes and maintainer review is pending.
 
 I value focused changes, tests that capture the behavior, and clear notes about what has and has not been verified.
