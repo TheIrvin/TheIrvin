@@ -8,7 +8,7 @@ I build practical desktop applications, local APIs, and automation tools. My mai
 - [Video Pipeline](https://github.com/TheIrvin/Generador_Video_PipeLine) — **Python, FastAPI, OpenCV, NumPy**; a local API that transfers visible motion from a guide video onto a still image, with clear limits on what it can reconstruct.
 - [Subtitle Editor](https://github.com/TheIrvin/Subtitulador-de-videos-en-Espanol-e-Ingles-9-16) — **Python, FastAPI, Electron, React, Vite**; a desktop workflow for transcribing, editing, and exporting bilingual vertical videos.
 - [Pipeline Workflows](https://github.com/TheIrvin/PipeLine_Workflows) — **Python, Docker, n8n, SQLite**; a self-hosted content workflow with a local approval dashboard.
-- [FileToMarkdown](https://github.com/TheIrvin/FileToMarkdown) — **C#, ASP.NET Core, Python, SQLite**; a local app that converts PDF, Word, PowerPoint, Excel, HTML, and CSV files into previewable, downloadable Markdown and keeps local conversion history.
+- [FileToMarkdown](https://github.com/TheIrvin/FileToMarkdown) — **C#, ASP.NET Core, Python, SQLite**; an MIT-licensed local app that converts PDF, Word, PowerPoint, Excel, HTML, and CSV files into previewable, downloadable Markdown and keeps local conversion history.
 - [Angular REST Product Catalog](https://github.com/TheIrvin/Web_Services_REST) — **Angular 22, TypeScript, Vitest, JSON Server**; a local CRUD app with a documented API setup, a real UI screenshot, and six HTTP service tests.
 
 ## Open-source contributions
