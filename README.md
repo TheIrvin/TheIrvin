@@ -1,6 +1,6 @@
 # Software developer building practical tools
 
-I build practical desktop applications, local APIs, and automation tools. My main project work is in **C#/.NET, Python, and TypeScript with React and Angular**; I also contribute fixes to established open-source projects.
+I build practical desktop applications, local APIs, and automation tools. My main project work is in **C#/.NET, Python, and TypeScript** (React and Angular); my open-source work also spans **Go, Java, Kotlin, and Rust**.
 
 ## Selected projects
 
