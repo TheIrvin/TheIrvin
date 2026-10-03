@@ -25,4 +25,6 @@ I build practical desktop applications, local APIs, and automation tools. My mai
 - [groq-pr-reviewer-net #8](https://github.com/danhpaiva/groq-pr-reviewer-net/pull/8) — added `--lang` support for six review languages with localized headings and fallback tests; all 11 local tests pass.
 - [compose-hardware-insets #27](https://github.com/damson/compose-hardware-insets/pull/27) — added tested Kotlin/Compose alignments for horizontal screen edges; CI passes and maintainer review is pending.
 
+- [ledger-core #32](https://github.com/softvasco/ledger-core/pull/32) — added architecture tests for Domain dependencies and Application boundaries. Build passes cleanly; Domain and Application suites pass (96 tests total); CI and maintainer review are pending.
+
 I value focused changes, tests that capture the behavior, and clear notes about what has and has not been verified.
