@@ -13,6 +13,10 @@ I build practical desktop applications, local APIs, and automation tools. My mai
 
 ## Open-source contributions
 
+- [groq-pr-reviewer-net #8](https://github.com/danhpaiva/groq-pr-reviewer-net/pull/8) — added `--lang` support for six review languages with localized headings and fallback tests. **Merged.**
+- [ledger-core #32](https://github.com/softvasco/ledger-core/pull/32) — added architecture tests enforcing Domain and Application dependency boundaries. **Merged.**
+- [semantic-policy #115](https://github.com/semanticpolicy/semantic-policy/pull/115) — reject empty input paths with focused CLI errors and regression tests. **Merged.**
+- [cocoa-beans #408](https://github.com/PoweredByApartium/cocoa-beans/pull/408) — added `OptionalFloat.ifPresentOrElse` with callback-behavior tests. **Merged.**
 - [Cartograph #25](https://github.com/pacman-cli/Cartograph/pull/25) and [#49](https://github.com/pacman-cli/Cartograph/pull/49) — documented public API and remaining public types, and clarified behavior descriptions; Java 17 tests and zero-warning Javadoc checks passed. **Both merged.**
 - [uniOS #25](https://github.com/unionyxx/uniOS/pull/25) — added visible status feedback before the network settings app starts DHCP renewal. **Merged.**
 - [CodePrism #68](https://github.com/knight22-21/CodePrism/pull/68) — rejected option-like Git diff ranges and added CLI regression tests. **Merged.**
@@ -23,10 +27,6 @@ I build practical desktop applications, local APIs, and automation tools. My mai
 ### In review
 
 - [go-collections #269](https://github.com/pickeringtech/go-collections/pull/269) — wrote a usage guide for Go preprocessing tools and linked it from the package indexes. Local package tests pass; CI is waiting for maintainer approval of the workflow run, and review is pending.
-- [semantic-policy #115](https://github.com/semanticpolicy/semantic-policy/pull/115) — added CLI validation and regression tests for empty input paths in a .NET evaluation tool. Local build and tests pass; CI is waiting for maintainer approval of the workflow run, and review is pending.
-- [groq-pr-reviewer-net #8](https://github.com/danhpaiva/groq-pr-reviewer-net/pull/8) — added `--lang` support for six review languages with localized headings and fallback tests; all 11 local tests pass. No CI checks or maintainer review have been reported.
 - [compose-hardware-insets #27](https://github.com/damson/compose-hardware-insets/pull/27) — added tested Kotlin/Compose alignments for horizontal screen edges; the maintainer verified the gate on current `develop`, while GitHub's check for the rebased fork awaits approval.
-
-- [ledger-core #32](https://github.com/softvasco/ledger-core/pull/32) — added architecture tests for Domain dependencies and Application boundaries. Build passes cleanly; Domain and Application suites pass (96 tests total); CI and CodeQL are waiting for maintainer approval of their workflow runs, and review is pending.
 
 I value focused changes, tests that capture the behavior, and clear notes about what has and has not been verified.
