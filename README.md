@@ -23,10 +23,10 @@ I build practical desktop applications, local APIs, and automation tools. My mai
 - [CodePrism #71](https://github.com/knight22-21/CodePrism/pull/71) — reject unknown `--languages` values instead of silently indexing with a broader language set; added regression coverage. **Merged.**
 - [LOKI #11](https://github.com/Elabsurdo984/loki-agent/pull/11) — discard a failed user turn when every provider attempt fails, with a regression test. **Merged.**
 - [drawpyo #141](https://github.com/MerrimanInd/drawpyo/pull/141) — added configurable group factories to `TreeDiagram`, including a default and custom-factory tests. **Merged.**
+- [compose-hardware-insets #27](https://github.com/damson/compose-hardware-insets/pull/27) — added tested Kotlin/Compose alignments for horizontal screen edges. **Merged.**
 
 ### In review
 
 - [go-collections #269](https://github.com/pickeringtech/go-collections/pull/269) — wrote a usage guide for Go preprocessing tools and linked it from the package indexes. Local package tests pass; CI is waiting for maintainer approval of the workflow run, and review is pending.
-- [compose-hardware-insets #27](https://github.com/damson/compose-hardware-insets/pull/27) — added tested Kotlin/Compose alignments for horizontal screen edges; the maintainer verified the gate on current `develop`, while GitHub's check for the rebased fork awaits approval.
 
 I value focused changes, tests that capture the behavior, and clear notes about what has and has not been verified.
