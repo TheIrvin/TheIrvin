@@ -13,6 +13,10 @@ I build practical desktop applications, local APIs, and automation tools. My mai
 
 ## Open-source contributions
 
+- [cocoa-beans #410](https://github.com/PoweredByApartium/cocoa-beans/pull/410) — adjusted the CI gate so tests and coverage run without Sonar credentials, while analysis runs when a token is available. **Merged.**
+- [homelab-monitor #343](https://github.com/SikamikanikoBG/homelab-monitor/pull/343) — compressed dashboard and API responses while preserving uncompressed server-sent events, with regression tests. **Merged.**
+- [PsychoPy #7822](https://github.com/psychopy/psychopy/pull/7822) — updated the sound demo to use the current backend API and removed obsolete attributes. **Merged.**
+
 - [groq-pr-reviewer-net #8](https://github.com/danhpaiva/groq-pr-reviewer-net/pull/8) — added `--lang` support for six review languages with localized headings and fallback tests. **Merged.**
 - [ledger-core #32](https://github.com/softvasco/ledger-core/pull/32) — added architecture tests enforcing Domain and Application dependency boundaries. **Merged.**
 - [semantic-policy #115](https://github.com/semanticpolicy/semantic-policy/pull/115) — reject empty input paths with focused CLI errors and regression tests. **Merged.**
@@ -27,6 +31,7 @@ I build practical desktop applications, local APIs, and automation tools. My mai
 
 ### In review
 
+- [osk-backend #355](https://github.com/Open-Source-Kigali/osk-backend/pull/355) — added unit tests for the partner controller. **Approved; merge pending.**
 - [go-collections #269](https://github.com/pickeringtech/go-collections/pull/269) — wrote a usage guide for Go preprocessing tools and linked it from the package indexes. Local package tests pass; CI is waiting for maintainer approval of the workflow run, and review is pending.
 
 I value focused changes, tests that capture the behavior, and clear notes about what has and has not been verified.
